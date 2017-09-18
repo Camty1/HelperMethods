@@ -1,0 +1,6 @@
+C:\Users\cwolf_000\Documents\GitHub\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+C:\Users\cwolf_000\Documents\GitHub\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe
+C:\Users\cwolf_000\Documents\GitHub\HelperMethods\HelperMethods\bin\Debug\HelperMethods.pdb
+C:\Users\cwolf_000\Documents\GitHub\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csprojResolveAssemblyReference.cache
+C:\Users\cwolf_000\Documents\GitHub\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+C:\Users\cwolf_000\Documents\GitHub\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
